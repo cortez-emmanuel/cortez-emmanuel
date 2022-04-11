@@ -1,4 +1,4 @@
-### **Hope you're doing well! I'm Emmanuel 👋🏻 Thank you for dropping by! 🤟**🏻
+### **Hope you're doing well! I'm Emmanuel 👋🏻 Thank you for dropping by!** 🤟
 
 - My interests include
  - 🏀 Sports, especially basketball
