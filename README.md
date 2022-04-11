@@ -22,6 +22,6 @@
 - 💬 Ask me about data visualization, machine learning, professional branding
 - 📫 Connect with me on:
   - ⛓ [LinkedIn](https://www.linkedin.com/in/emmanuelxcortez/)
-  - TBD
-  - TBD
+  - Fiverr (Coming Soon)
+  - Others (Coming Soon)
 
