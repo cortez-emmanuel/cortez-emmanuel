@@ -23,7 +23,7 @@ A quote 🗣 that has stuck with me recently is...
 ### *As for my Data Science Learning Journey...*
 - 🐍🛢 I’m currently working on sharpening my Python and SQL skills
 - 👨🏻‍💻 I’m currently learning best practices pertaining to `clean code/syntax`
-- 💬 Ask me about data analytics/data science, professional branding, work etiquette, remote work, remote college programs 
+- 💬 Ask me about data analytics/data science, professional branding, work etiquette, remote work/school 
 - 📫 Connect with me on:
   - ⛓ [LinkedIn](https://www.linkedin.com/in/emmanuelxcortez/)
   - Fiverr (Coming Soon)
