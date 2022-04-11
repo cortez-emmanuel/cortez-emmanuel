@@ -1,4 +1,4 @@
-# **I'm glad that your here!** 🤟🏻
+# **I'm glad you're here!** 🤟🏻
 ## I'm Emmanuel 👋🏻 Thank you for dropping by!
 ### *Some facts about me...*
 
