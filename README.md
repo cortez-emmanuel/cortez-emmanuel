@@ -1,4 +1,8 @@
-### **Hope you're doing well! I'm Emmanuel 👋🏻 Thank you for dropping by!** 🤟
+## **Hope you're doing well! I'm Emmanuel 👋🏻 Thank you for dropping by!** 🤟
+### *Some facts about me...*
+
+- 🤠🌵 Texas Native, with a passion for creating data solutions to drive business impact and serving others through many capacities.
+- 📈🔎 I have worked in Business Intelligence & Enterprise Analytics for over 3 years and I am currently finding my place in Data Science! I hope to one day work as a Data Scientist with a diverse team.
 
 - My interests include
  - 🏀 Sports, especially basketball
@@ -7,13 +11,15 @@
  - 📚 Reading for self-development, business and data science
  - 💎Last but not least, just learning about all things data like...
    - 📊 Data Visualization
-   - - 💻 Machine Learning
+   - 💻 Machine Learning
    - ⚙️ Data Engineering/Infrastructure
    - 🌎 Data Culture 
   
 - 🐍🛢 I’m currently working on sharpening my Python and SQL skills
-- 👨🏻‍💻 I’m currently learning best practices pertaining to clean code/syntax
+- 👨🏻‍💻 I’m currently learning best practices pertaining to `clean code/syntax`
 - 💬 Ask me about data visualization, machine learning, professional branding
 - 📫 Connect with me on:
-  - LinkedIn
+  - ⛓ [LinkedIn](https://www.linkedin.com/in/emmanuelxcortez/)
+  - TBD
+  - TBD
 
