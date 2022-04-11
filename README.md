@@ -1,4 +1,4 @@
-## **Hope you're doing well! I'm Emmanuel 👋🏻 Thank you for dropping by!** 🤟
+## **Hope you're doing well! I'm Emmanuel 👋🏻 Thank you for dropping by!** 🤟🏻
 ### *Some facts about me...*
 
 - 🤠🌵 Texas Native, with a passion for creating data solutions to drive business impact and serving others through many capacities.
