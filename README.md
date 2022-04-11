@@ -6,8 +6,8 @@
 - 📈🔎 I have worked in Business Intelligence & Enterprise Analytics for over 3 years and I am currently finding my place in Data Science! I hope to one day work as a Data Scientist with a diverse team.
 
 ### *My interests include*
- ####- 🏀 Sports, especially basketball
- ####- 🏋️‍♂️ Health/Fitness and Exercise
+ - 🏀 Sports, especially basketball
+ - 🏋️‍♂️ Health/Fitness and Exercise
  - 🛫 Travel! Got any recs for weekend trips?
  - 📚 Reading for self-development, business and data science
  - 💎Last but not least, just learning about all things data like...
