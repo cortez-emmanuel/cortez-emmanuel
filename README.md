@@ -1,5 +1,6 @@
-# **Hope you're doing well! I'm Emmanuel 👋🏻 Thank you for dropping by!** 🤟🏻
-## *Some facts about me...*
+# **I'm glad that your here!** 🤟🏻
+## I'm Emmanuel 👋🏻 Thank you for dropping by!
+### *Some facts about me...*
 
 - 🤠🌵 Texas Native, with a passion for creating data solutions to drive business impact and serving others through many capacities.
 - 📈🔎 I have worked in Business Intelligence & Enterprise Analytics for over 3 years and I am currently finding my place in Data Science! I hope to one day work as a Data Scientist with a diverse team.
