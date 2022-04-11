@@ -5,7 +5,7 @@
 - 🤠🌵 Texas Native, with a passion for creating data solutions to drive business impact and serving others through many capacities.
 - 📈🔎 I have worked in Business Intelligence & Enterprise Analytics for over 3 years and I am currently finding my place in Data Science! I hope to one day work as a Data Scientist with a diverse team.
 
-A Quote that has stuck with me recently is..
+A quote 🗣 that has stuck with me recently is..
 > "May we ever choose the harder right, instead of the easier wrong." - Thomas Monson
 
 ---
@@ -23,7 +23,7 @@ A Quote that has stuck with me recently is..
 ### *As for my Data Science Learning Journey...*
 - 🐍🛢 I’m currently working on sharpening my Python and SQL skills
 - 👨🏻‍💻 I’m currently learning best practices pertaining to `clean code/syntax`
-- 💬 Ask me about data visualization, machine learning, professional branding
+- 💬 Ask me about data analytics/data science, professional branding, work etiquette,  
 - 📫 Connect with me on:
   - ⛓ [LinkedIn](https://www.linkedin.com/in/emmanuelxcortez/)
   - Fiverr (Coming Soon)
