@@ -25,7 +25,7 @@
 #### - 👨🏻‍💻 I’m currently learning best practices pertaining to `clean code/syntax`
 #### - 💬 Ask me about data analytics/data science, professional branding, work etiquette, remote work/school 
 #### - 📫 Connect with me on:
-####  - ⛓ [LinkedIn](https://www.linkedin.com/in/emmanuelxcortez/)
-####  - Fiverr (Coming Soon)
-####  - Others (Coming Soon)
+####    - ⛓ [LinkedIn](https://www.linkedin.com/in/emmanuelxcortez/)
+####    - Fiverr (Coming Soon)
+####    - Others (Coming Soon)
 
