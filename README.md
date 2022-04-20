@@ -16,10 +16,10 @@
 #### - 🛫 Travel! Got any recs for weekend trips?
 #### - 📚 Reading for self-development, business and data science
 #### - 💎Last but not least, just learning about all things **DATA** like...
-####   - 📊 Data Visualization
-####   - 💻 Machine Learning
-####   - ⚙️ Data Engineering/Infrastructure
-####   - 🌎 Data Culture 
+      - 📊 Data Visualization
+      - 💻 Machine Learning
+      - ⚙️ Data Engineering/Infrastructure
+      - 🌎 Data Culture 
 ---
 ### *As for my Data Science Learning Journey...*
 #### - 🐍🛢 I’m currently working on sharpening my Python and SQL skills
