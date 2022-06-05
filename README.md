@@ -27,6 +27,6 @@
 #### - 💬 Ask me about data analytics/data science, professional branding, work etiquette, remote work/school 
 #### - 🤝 Connect with me on:
    - ⛓ [LinkedIn](https://www.linkedin.com/in/emmanuelxcortez/)
-   - R [R Pubs](https://rpubs.com/ecortez)
+   - 📝[**R**Pubs](https://rpubs.com/ecortez)
    - Fiverr & others coming soon (Coming Soon)
 
