@@ -3,7 +3,7 @@
 ### *Some facts about me...*
 ---
 #### - 🤠🌵 Texas Native, with a passion for creating data solutions to drive business impact and serving others through many capacities.
-#### - 🎓🧠 Recent grad with a Master of Science in Advanced Data Analytics & Data Science; current holder of two Bachelor degrees in Management Science and Marketing
+#### - 🎓🧠 I hold a Master of Science in Advanced Data Analytics & Data Science and two Bachelor degrees in Management Science and Marketing
 #### - 📈🔎 I have over 2 years experience as a Data Scientist, following over 3 years of experience in Business Intelligence and Enterprise Analytics.
 
 #### A quote 💭 that has stuck with me recently is...
