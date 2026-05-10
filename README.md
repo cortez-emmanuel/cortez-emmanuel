@@ -4,7 +4,7 @@
 ---
 #### - 🤠🌵 Texas Native, with a passion for creating data solutions to drive business impact and serving others through many capacities.
 #### - 🎓🧠 I hold a Master of Science in Advanced Data Analytics & Data Science and two Bachelor degrees in Management Science and Marketing
-#### - 📈🔎 I have over 2 years experience as a Data Scientist, following over 3 years of experience in Business Intelligence and Enterprise Analytics.
+#### - 📈🔎 I have over 2 years experience as a Data Scientist, following over 4.5 years of experience in Business Intelligence and Enterprise Analytics.
 
 #### A quote 💭 that has stuck with me recently is...
 > "May we ever choose the harder right, instead of the easier wrong." - Thomas Monson
